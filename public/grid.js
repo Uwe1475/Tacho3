@@ -7,7 +7,7 @@ var defaultOrderedList = [
   'average_speed',
   'cadence',
   'user_power',
-  'heart_rate',
+  'total_distance',
   'ascent',
   'calories',
   'distance',

@@ -90,8 +90,8 @@ var definitions = [
     defaultValue: '-'
   },
   {
-    id: 'heart_rate',
-    name: 'Heart Rate',
+    id: 'total distance',
+    name: 'Total Distance',
     subscribe: COBI.rideService.heartRate.subscribe,
     unsubscribe: COBI.rideService.heartRate.unsubscribe,
     formatter: formatInt,
